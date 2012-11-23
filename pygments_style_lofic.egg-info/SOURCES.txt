@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+pygments_style_lofic/__init__.py
+pygments_style_lofic.egg-info/PKG-INFO
+pygments_style_lofic.egg-info/SOURCES.txt
+pygments_style_lofic.egg-info/dependency_links.txt
+pygments_style_lofic.egg-info/entry_points.txt
+pygments_style_lofic.egg-info/requires.txt
+pygments_style_lofic.egg-info/top_level.txt
